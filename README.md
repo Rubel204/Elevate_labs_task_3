@@ -23,4 +23,18 @@ SQL for Data Analysis
  --  Q8. Retrive State & city wise total sales
  
  --  Q9. Give the distinct count of ship service
-  
+
+## Tools used
+- Microsoft Excel
+- MySQL Workbench
+- Power Point
+
+## Author 
+Shiv Kumar Paul
+
+### Linkedin Profile: www.linkedin.com/in/shiv-kumar-paul666
+
+
+
+
+
