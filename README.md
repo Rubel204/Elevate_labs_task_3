@@ -27,7 +27,7 @@ SQL for Data Analysis
 ## Tools used
 - Microsoft Excel
 - MySQL Workbench
-- Power Point
+
 
 ## Author 
 Shiv Kumar Paul
